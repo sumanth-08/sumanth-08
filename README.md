@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sumanth;
-- 👀 I’m interested in problem solving;
-- 🌱 I’m currently learning node.js;
-- 💞️ I’m looking to collaborate on Big companies;
+- 👀 I’m interested in learning new skills;
+- 🌱 I’m currently learning Mongodb, Express, Node.js, Sequelize Postgres.
 - 📫 How to reach me - mrsumanth1947@gmail.com;
 
 <!---
