@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumanth;
 - 👀 I’m interested in learning new skills;
-- 🌱 I’m currently learning Mongodb, Express, Node.js, Sequelize Postgres.
+- 🌱 I’m currently learning Mongodb, Express, Node.js, Sequelize Postgres;
 - 📫 How to reach me - mrsumanth1947@gmail.com;
 
 <!---
